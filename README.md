@@ -87,5 +87,5 @@ When running on local system, install the following dependencies using the follo
 
 Given some Math topic, this project enables the user to explore all the topics that are the prerequisite to that topic, i.e., provide a list of topics which should be known before jumping into the input topic.
 
-_For more examples, please refer to the [Documentation]([https://example.com](https://github.com/Anupam0401/Wikipedia-Graph-Analysis/blob/master/Assignment%202_%20Wikipedia%20Graph%20Analysis.pdf))_
+_For more examples, please refer to the [Documentation](https://example.com](https://github.com/Anupam0401/Wikipedia-Graph-Analysis/blob/master/Assignment%202_%20Wikipedia%20Graph%20Analysis.pdf)_
 
