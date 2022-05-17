@@ -59,7 +59,7 @@ and Clustering coefficient
 ### Built With
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [sklearn](https://jquery.com](https://scikit-learn.org/)
+* [sklearn](https://scikit-learn.org/)
 * [Node2Vec](https://snap.stanford.edu/node2vec/)
 * [Google Colab](https://colab.research.google.com)
 
